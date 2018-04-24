@@ -117,7 +117,7 @@ header .hero .join input[type="submit"]{width:150px;height:50px;background-color
 /*--------------------------*/
 
 .Projects{height:666px;background:#F9F9F9;}
-.Projects .container{height:466px;padding:100px 0;text-align:center;}
+.Projects .container{height:666px;padding:100px 0;text-align:center;}
 .Projects .container h2{font:600  "微软雅黑";color:##2D4D55;margin-bottom:40px;}
 .Projects .container .icon_1{margin-bottom:100px;}
 .Projects .container ul{width:1300px;}
@@ -129,7 +129,7 @@ header .hero .join input[type="submit"]{width:150px;height:50px;background-color
 /*-------------------------*/
 
 .our_clients{height:600px;}
-.our_clients .container{height:400px;padding:100px 0;text-align:center;}
+.our_clients .container{height:400px;padding:100px 0px;text-align:center;}
 .our_clients .container h2{color:##2D4D55;margin-bottom:40px;}
 .our_clients .container div{width:1300px;}
 .our_clients .container img{float:left;margin-right:60px;margin-bottom:60px;}
