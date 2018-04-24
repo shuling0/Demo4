@@ -76,10 +76,11 @@ header .hero .join input[type="submit"]{width:150px;height:50px;background-color
 /*------------the_grllry开始----------------*/
 
 .the_grllry{width:100%;height:1264px;}
-.the_grllry .container{height:936px;padding:100px 0;text-align:center;}
+.the_grllry .container{height:1264px;padding:100px 0;text-align:center;}
 .the_grllry .container h2{margin-bottom:40px;}
-.the_grllry .container .row1{width:100%;height:575px;overflow:hidden;margin-bottom:40px;}
-.the_grllry .container .row1 .col1,.the_grllry .container .row1 .col2{width:530px;height:100%;position:relative;margin-right:40px;float:left;}
+.the_grllry .container .row1{width:100%;height:575px;overflow:hidden;margin:0 auto;margin-bottom:40px;}
+.the_grllry .container .row1 .col1,.the_grllry .container .row1 .col2{width:530px;height:100%;position:relative;;float:left;}
+.the_grllry .container .row1 .col2{float:right;}
 .the_grllry .container .row1 .col1 img{width:100%;height:100%;}
 .the_grllry .container .row1 .col1_af{width:100%;height:100%;position:absolute;background-color:rgba(0,0,0,0.5);top:0;left:0;padding-top:244px;}
 .the_grllry .container .row1 .col1_af .i1,.the_grllry .container .row1 .col1_af .i2{width:1px;height:17px;margin:5px auto;border-left:1px dashed white;}
@@ -87,16 +88,16 @@ header .hero .join input[type="submit"]{width:150px;height:50px;background-color
 .the_grllry .container .row1 .col2 .row_1,.the_grllry .container .row1 .col2 .row_2{height:270px;width:100%;margin-bottom:40px;}
 .the_grllry .container .row1 .col2 .row_2{height:265px;width:100%;margin-bottom:0;}
 
-.the_grllry .container .row2{width:1100px;height:270px;}
+.the_grllry .container .row2{width:100%;height:270px;background-size:100% auto;}
 
 /*-----------------------------*/
 
 .price{width:100%;height:1000px;background:#F9F9F9;}
-.price .container{heigth:1000px;padding:100px;text-align:center;}
+.price .container{heigth:1000px;padding-top:100px;padding-bottom:100px;text-align:center;}
 .price .container h3{font-size:14px;letter-spacing:.5px;word-spacing:5px;color:#9F9F9F;margin:10px 0 40px 0;}
-.price .container ul{width:1350px;}
+.price .container ul{width:1200px;margin:0 auto;height:1px;}
 .price .container ul li{width:303px;height:580px;border:5px solid #E2E2E2;margin-right:80px;float:left;}
-.price .container ul li a{width:100%;height:100%;padding-top:1px;}
+.price .container ul li a{width:100%;height:100%;padding-top:1px;color:black;}
 .price .container ul li .price_p1{color:#777777;margin:60px 0 40px 0;}
 .price .container ul li .price_p1 span{font:600 30px "微软雅黑";}
 .price .container ul li i{display:block;width:1px;height:17px;border-left:1px dashed black;margin:0 auto;margin-bottom:40px;}
